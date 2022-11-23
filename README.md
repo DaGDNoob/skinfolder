@@ -3,6 +3,9 @@
 
 Fully maintained by myself
 
+## DaGDNoob DT v2.1 (WIP)
+### Modified version of Rafis HDDT 2021 ft [RK]
+
 ## DaGDNoob 14052022
 ### Custom skin using elements from various skins
 
@@ -23,8 +26,8 @@ Fully maintained by myself
 ![Gameplay](https://user-images.githubusercontent.com/29365478/203448055-b60e1975-0973-4ea3-bf31-566a435bd456.png)
 ![Spinner](https://user-images.githubusercontent.com/29365478/203448152-31d9c514-9110-4411-8965-5a94471aa4d4.png)
 
-## DaGDNoob DT v2.1 (WIP)
-### Modified version of Rafis HDDT 2021 ft [RK]
+## DaGDNoob DT v2 *(Legacy)*
+### Rafis HDDT 2021 ft [RK] no numbers & default retry button
 
 ## Default Enhanced *(Legacy)*
 ### Default skin with no sliderend
@@ -39,9 +42,6 @@ Fully maintained by myself
 ![Pause menu](https://user-images.githubusercontent.com/29365478/203449055-171b98b8-1638-4400-ae30-e5460b8f100f.png)
 ![Fail menu](https://user-images.githubusercontent.com/29365478/203449081-5db4d15f-f646-4510-9e62-2154febf57ce.png)
 ![Results screen](https://user-images.githubusercontent.com/29365478/203449115-116e4c28-2745-4e07-97a0-16694147874b.png)
-
-## DaGDNoob DT v2 *(Legacy)*
-### Rafis HDDT 2021 ft [RK] no numbers & default retry button
 
 ## DaGDNoob *(Legacy)*
 - **Normal** - Default hitsounds
