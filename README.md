@@ -1,7 +1,5 @@
 # Database of OSU Skins
-### DOWNLOAD HERE: [Google Drive](https://drive.google.com/drive/u/1/folders/1xCSq5m5KL6_jAyy2qoEyUbDaoTJ2mxQD)
-### DOWNLOAD HERE: [Google Drive](https://drive.google.com/drive/u/1/folders/1xCSq5m5KL6_jAyy2qoEyUbDaoTJ2mxQD)
-### DOWNLOAD HERE: [Google Drive](https://drive.google.com/drive/u/1/folders/1xCSq5m5KL6_jAyy2qoEyUbDaoTJ2mxQD)
+### ‼️‼️‼DOWNLOAD HERE‼️‼️: [Google Drive](https://drive.google.com/drive/u/1/folders/1xCSq5m5KL6_jAyy2qoEyUbDaoTJ2mxQD)
 
 ## DaGDNoob DT v2.1 (WIP)
 ### Modified version of Rafis HDDT 2021 ft [RK]
