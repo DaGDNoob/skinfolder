@@ -1,5 +1,5 @@
 # Database of OSU Skins
-### ‼️‼️‼️DOWNLOAD HERE‼️‼️‼️: [Google Drive](https://drive.google.com/drive/u/1/folders/1xCSq5m5KL6_jAyy2qoEyUbDaoTJ2mxQD)
+### [Google Drive](https://drive.google.com/drive/u/1/folders/1xCSq5m5KL6_jAyy2qoEyUbDaoTJ2mxQD)
 
 ## DaGDNoob DT v2.1 (WIP)
 ### Modified version of Rafis HDDT 2021 ft [RK]
@@ -17,8 +17,8 @@
 
 > Dimmed slider
 
-- **Normal** - Default hitsounds
-- **Silent** - No hitsounds
+- [**Normal**](https://drive.google.com/file/d/1OBbGhJj2ykat8Sir0ZDp6aS0tKzHqndy/view) - Default hitsounds
+- [**Silent**](https://drive.google.com/file/d/1er_hVjvq3pQ8S2WTsSCW3bj_UMu7TK8c/view) - No hitsounds
 
 ![Song select](https://user-images.githubusercontent.com/29365478/203446823-143a88dc-3dc6-495a-b70d-f55b2de7ab49.png)
 ![Mod selection](https://user-images.githubusercontent.com/29365478/203447041-c2fdea0e-60da-4ebd-a9f5-5fc6be2d5b7e.png)
@@ -31,11 +31,15 @@
 ## Default Enhanced v2
 ### Default skin with small changes
 
+- [**Download**](https://drive.google.com/file/d/1Qdk2JFg2RAnclOcvJXM0ommSv7if-f0E/view)
+
 ![Gameplay](https://user-images.githubusercontent.com/29365478/203448055-b60e1975-0973-4ea3-bf31-566a435bd456.png)
 ![Spinner](https://user-images.githubusercontent.com/29365478/203448152-31d9c514-9110-4411-8965-5a94471aa4d4.png)
 
 ## DaGDNoob DT v2 *(Legacy)*
 ### Rafis HDDT 2021 ft [RK] no numbers & default retry button
+
+- [**Download**](https://drive.google.com/file/d/12idcUQr0kEfvCS1baucfJsG0zBcUskix/view)
 
 ![Song select](https://user-images.githubusercontent.com/29365478/204070522-71c1d6a7-fa02-47e8-9a9b-9735b756c4ef.png)
 ![Mod selection](https://user-images.githubusercontent.com/29365478/204070544-18128842-d6a5-4fcb-b55f-97a36b866cd1.png)
@@ -48,10 +52,14 @@
 ## Default Enhanced *(Legacy)*
 ### Default skin with no sliderends and 300s
 
+- [**Download**](https://drive.google.com/file/d/1iHwioNRyVqJp_MTYG1WOhPifO00KZZCD/view)
+
 ![Gameplay](https://user-images.githubusercontent.com/29365478/204070474-fba0fdf3-c912-4450-b2a7-ebd41da113d2.png)
 
 ## DaGDNoob DT *(Legacy)*
 ### Rafis 2018-03-26 HDDT cursor & hitsound swap
+
+- [**Download**](https://drive.google.com/file/d/1eACN_AQ6SkgbzzW290QjaS4rT1aOT0aQ/view)
 
 ![Song select](https://user-images.githubusercontent.com/29365478/203448807-860b5746-a0de-4e99-a73d-a4640a9c1284.png)
 ![Mod selection](https://user-images.githubusercontent.com/29365478/203448849-56fd2a30-a223-4140-a1b5-c4a2688b1ca4.png)
@@ -71,8 +79,8 @@
 
 > Remove gameplay picture
 
-- **Normal** - Default hitsounds
-- **No hitsounds** - No hitsounds
+- [**Normal**](https://drive.google.com/file/d/1xzZSE5ME5tBYWvSjv-h6nMVhMBs_JitU/view) - Default hitsounds
+- [**No hitsounds**](https://drive.google.com/file/d/1gxLycZIch257hPaWtSnAhrgqUfeT1Ykf/view) - No hitsounds
 
 ![Song select](https://user-images.githubusercontent.com/29365478/204071043-07cdd5a3-0227-4fbb-9792-d7debad839d0.png)
 ![Gameplay](https://user-images.githubusercontent.com/29365478/204071066-9195a7ae-743e-4235-98e1-ec9f68e3ba3c.png)
@@ -93,6 +101,8 @@
 
 > Remove click mode selection
 
+- [**Download**](https://drive.google.com/file/d/1-0f8X6TfbkNYP2upUHdAtA2lh6BalO3T/view)
+
 ![Song select](https://user-images.githubusercontent.com/29365478/204070772-8bc56f3f-f8e5-49fe-931b-de108dfba102.png)
 ![Gameplay](https://user-images.githubusercontent.com/29365478/204070792-153c7f3d-2097-468c-927d-bf8aa5a3fd15.png)
 
@@ -107,16 +117,18 @@
 
 > Add picture to gameplay
 
+- [**Download**](https://drive.google.com/file/d/1OqS-ndg8KN8f97-mPEypmsDugEjecSYw/view)
+
 ![Song select](https://user-images.githubusercontent.com/29365478/204070972-e6bc1fed-0e96-42f8-a8e5-49d59f4c11d8.png)
 ![Gameplay](https://user-images.githubusercontent.com/29365478/204070984-324c397b-19c0-41c2-a899-616e60f80d03.png)
 
 ## DaGDNoob 25072020 *(Legacy)*
 ### First version
 
-- **Normal** - Default hitsounds
-- **No hitsounds** - No hitsounds
-- **RafisHitsounds** - Rafis hitsounds
-- **Hitsounds+WC** - Rafis hitsounds + WhiteCat cursor
+- [**Normal**](https://drive.google.com/file/d/1e3Ui1hrPg9sw1opvcUYYdiHPO1OkJdEg/view) - Default hitsounds
+- [**No hitsounds**](https://drive.google.com/file/d/1T0EifaSI2FaabPAN3PfOx_b4r7xZXt3V/view) - No hitsounds
+- [**RafisHitsounds**](https://drive.google.com/file/d/1LQ9dS2UmNtRBXlmo_jP1xtarr9zWDqEv/view) - Rafis hitsounds
+- [**Hitsounds+WC**](https://drive.google.com/file/d/19MhSjQ0lsQtWgGgWXP7cLAzWTO26aXMx/view) - Rafis hitsounds + WhiteCat cursor
 
 ![Song select](https://user-images.githubusercontent.com/29365478/204070914-445a3469-f821-4203-80e0-5651206068a2.png)
 ![Gameplay](https://user-images.githubusercontent.com/29365478/204070945-9592a8aa-5fa1-46ce-a36c-bbb9711bfa05.png)
