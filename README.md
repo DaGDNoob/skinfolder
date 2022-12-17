@@ -1,17 +1,11 @@
 # Database of OSU Skins
 ### [Google Drive](https://drive.google.com/drive/u/1/folders/1xCSq5m5KL6_jAyy2qoEyUbDaoTJ2mxQD)
 
-## DaGDNoob DT v2.1 (WIP)
+## DaGDNoob DT v3
 ### Modified version of Rafis HDDT 2021 ft [RK]
-
-*Extra cursors are in skin folder*
-
-*This skin is not released yet*
 
 ## DaGDNoob 14052022
 ### Fifth version
-
-*Mode selection is not clickable*
 
 > Changed combo colors
 
@@ -73,8 +67,6 @@
 ## DaGDNoob 29012021 *(Legacy)*
 ### Fourth version
 
-*Mode selection is not clickable*
-
 > Changed combo colors
 
 > Remove gameplay picture
@@ -88,8 +80,6 @@
 
 ## DaGDNoob 04122020 *(Legacy)*
 ### Third version
-
-*Mode selection is not clickable*
 
 > Changed combo colors
 
