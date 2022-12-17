@@ -1,5 +1,4 @@
 # DaGDNoob Skin
-### [All Skins](https://github.com/DaGDNoob/skinfolder/blob/main/README.md)
 ### [Google Drive](https://drive.google.com/drive/u/1/folders/1xCSq5m5KL6_jAyy2qoEyUbDaoTJ2mxQD)
 
 ## DaGDNoob 14052022
