@@ -4,6 +4,8 @@
 ## DaGDNoob DT v3
 ### Modified version of Rafis HDDT 2021 ft [RK]
 
+- [**Download**](https://drive.google.com/file/d/1UZMNfR_nCEh3rceC0cPtQ7bssFYEyrc_/view)
+
 ## DaGDNoob DT v2 *(Legacy)*
 ### Rafis HDDT 2021 ft [RK] no numbers & default retry button
 
