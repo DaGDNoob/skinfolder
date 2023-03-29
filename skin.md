@@ -12,8 +12,12 @@
 - [**Silent**](https://drive.google.com/file/d/1er_hVjvq3pQ8S2WTsSCW3bj_UMu7TK8c/view) - No hitsounds
 
 ![Song select](https://user-images.githubusercontent.com/29365478/203446823-143a88dc-3dc6-495a-b70d-f55b2de7ab49.png)
+![Mod selection](https://user-images.githubusercontent.com/29365478/203447041-c2fdea0e-60da-4ebd-a9f5-5fc6be2d5b7e.png)
 ![Gameplay](https://user-images.githubusercontent.com/29365478/203447054-899006fa-8266-4f45-a911-6fe6e1ab8b38.png)
 ![Spinner](https://user-images.githubusercontent.com/29365478/203447063-92c83572-c237-4db5-8f0e-1969020b0ca6.png)
+![Pause menu](https://user-images.githubusercontent.com/29365478/203447409-e36d38c3-9497-4d55-a5a2-affb7fd07363.png)
+![Fail menu](https://user-images.githubusercontent.com/29365478/203447412-3bb227a1-a010-4bf8-b6a0-de2727b7427f.png)
+![Results screen](https://user-images.githubusercontent.com/29365478/203447493-6b15a7cd-1fee-4959-896e-67aa5158250a.png)
 
 ## DaGDNoob 29012021 *(Legacy)*
 ### Fourth version
