@@ -2,11 +2,6 @@
 ### [Google Drive](https://drive.google.com/drive/u/1/folders/1xCSq5m5KL6_jAyy2qoEyUbDaoTJ2mxQD)
 
 ## DaGDNoob 14052022
-### Fifth version
-
-> Changed combo colors
-
-> Dimmed slider
 
 - [**Normal**](https://drive.google.com/file/d/1OBbGhJj2ykat8Sir0ZDp6aS0tKzHqndy/view) - Default hitsounds
 - [**Silent**](https://drive.google.com/file/d/1er_hVjvq3pQ8S2WTsSCW3bj_UMu7TK8c/view) - No hitsounds
@@ -16,11 +11,6 @@
 ![Spinner](https://user-images.githubusercontent.com/29365478/203447063-92c83572-c237-4db5-8f0e-1969020b0ca6.png)
 
 ## DaGDNoob 29012021 *(Legacy)*
-### Fourth version
-
-> Changed combo colors
-
-> Remove gameplay picture
 
 - [**Normal**](https://drive.google.com/file/d/1xzZSE5ME5tBYWvSjv-h6nMVhMBs_JitU/view) - Default hitsounds
 - [**No hitsounds**](https://drive.google.com/file/d/1gxLycZIch257hPaWtSnAhrgqUfeT1Ykf/view) - No hitsounds
@@ -29,17 +19,6 @@
 ![Gameplay](https://user-images.githubusercontent.com/29365478/204071066-9195a7ae-743e-4235-98e1-ec9f68e3ba3c.png)
 
 ## DaGDNoob 04122020 *(Legacy)*
-### Third version
-
-> Changed combo colors
-
-> Changed gameplay picture
-
-> Add comboburst images
-
-> Dim slider
-
-> Remove click mode selection
 
 - [**Download**](https://drive.google.com/file/d/1-0f8X6TfbkNYP2upUHdAtA2lh6BalO3T/view)
 
@@ -47,15 +26,6 @@
 ![Gameplay](https://user-images.githubusercontent.com/29365478/204070792-153c7f3d-2097-468c-927d-bf8aa5a3fd15.png)
 
 ## DaGDNoob 05102020 *(Legacy)*
-### Second version
-
-> Changed combo colors
-
-> Add picture on song select
-
-> Modified cursor
-
-> Add picture to gameplay
 
 - [**Download**](https://drive.google.com/file/d/1OqS-ndg8KN8f97-mPEypmsDugEjecSYw/view)
 
@@ -63,7 +33,6 @@
 ![Gameplay](https://user-images.githubusercontent.com/29365478/204070984-324c397b-19c0-41c2-a899-616e60f80d03.png)
 
 ## DaGDNoob 25072020 *(Legacy)*
-### First version
 
 - [**Normal**](https://drive.google.com/file/d/1e3Ui1hrPg9sw1opvcUYYdiHPO1OkJdEg/view) - Default hitsounds
 - [**No hitsounds**](https://drive.google.com/file/d/1T0EifaSI2FaabPAN3PfOx_b4r7xZXt3V/view) - No hitsounds
