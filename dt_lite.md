@@ -6,6 +6,10 @@
 
 - [**Download**](https://drive.google.com/file/d/1UZMNfR_nCEh3rceC0cPtQ7bssFYEyrc_/view)
 
+![Song select](https://user-images.githubusercontent.com/29365478/231919150-a38ceb5e-fe8b-497d-8d11-ae9fdf1f69fb.png)
+![Gameplay](https://user-images.githubusercontent.com/29365478/231919227-79212ea0-ee31-49ba-ad5c-c480e9fb0e7c.png)
+![Spinner](https://user-images.githubusercontent.com/29365478/231919284-d0802774-2653-4aa7-9011-55a3315e337d.png)
+
 ## DaGDNoob DT v2 *(Legacy)*
 ### Rafis HDDT 2021 ft [RK] no numbers & default retry button
 
